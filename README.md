@@ -64,21 +64,6 @@ The project contains the following tables:
 3. Execute the queries to analyze sales data
 4. View query outputs and business insights
 
----
-
-## 📸 Screenshots
-
-### Database Tables
-(Add screenshot here)
-
-### Top Selling Products Query
-(Add screenshot here)
-
-### Best Customers Analysis
-(Add screenshot here)
-
-### Monthly Revenue Analysis
-(Add screenshot here)
 
 ---
 
